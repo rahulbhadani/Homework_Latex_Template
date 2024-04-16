@@ -26,6 +26,7 @@
 
 # Ignore all auto-generated folders
 _auto/
+_minted-*/
 
 # Ignore OS generated files
 .DS_Store
