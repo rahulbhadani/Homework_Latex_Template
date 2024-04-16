@@ -1,0 +1,32 @@
+# Ignore all TeX auxiliary files
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+
+
+# Ignore all auto-generated folders
+_auto/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
